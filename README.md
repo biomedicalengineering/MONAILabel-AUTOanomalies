@@ -5,7 +5,8 @@ Training where done actively with MONAI Label Uvicom server , and with pre train
 
 
 # Dataset and Model:
-# Private by Author : Bashar Shami 
+
+Private by Author : Bashar Shami 
 
 
 
