@@ -1,0 +1,399 @@
+{
+  "name": "new-dataset",
+  "description": "New Dataset",
+  "images_dir": ".",
+  "labels_dir": "labels",
+  "objects": {
+    "10": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "10.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575889,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649576110,
+            "checksum": "SHA256:756acc5b3e6611d9dd812a2d9ccd1a9ad8199db51c1f0f724285f4630ff2624c",
+            "name": "10.nii.gz"
+          }
+        }
+      }
+    },
+    "11": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "11.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649577038,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649577259,
+            "checksum": "SHA256:4f8560e03812f98b1a0eca0de7a3eaed48c0cab21e7ee0c06422a17519e129f9",
+            "name": "11.nii.gz"
+          }
+        }
+      }
+    },
+    "12": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "12.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575831,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575864,
+            "checksum": "SHA256:1c907477580f7ac6c886956c9c11b75c5fec9665aa8dfddcd972ae8dd0e45196",
+            "name": "12.nii.gz"
+          }
+        }
+      }
+    },
+    "2": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "2.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575577,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575634,
+            "checksum": "SHA256:077b7d3abc1cd6d003e69e4822b7860d81423c82c6569b819d956fee814069a9",
+            "name": "2.nii.gz"
+          }
+        }
+      }
+    },
+    "3": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "3.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649577748,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649577782,
+            "checksum": "SHA256:00093111c875f25e6c731094b02ac0d96cc6372ab9bc732e33d13d8740ebe754",
+            "name": "3.nii.gz"
+          }
+        }
+      }
+    },
+    "4": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "4.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649577398,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649577736,
+            "checksum": "SHA256:640987a186a13e9e2cca58b47322da88ca3af742b773f26e793e1a92c6def6ab",
+            "name": "4.nii.gz"
+          }
+        }
+      }
+    },
+    "5": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "5.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575450,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575557,
+            "checksum": "SHA256:9407564018768f75a735acbb07c5f76a1349b6c7ee859cd7a7e6aaa2fcc6b6ae",
+            "name": "5.nii.gz"
+          }
+        }
+      }
+    },
+    "6": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "client_id": "user-xyz",
+          "ts": 1649575386,
+          "name": "6.nii.gz"
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575398,
+            "checksum": "SHA256:c1bfb3424b5a2d489b576a7051cd90b13c4c2bf3427a15b266e41620e5654f4c",
+            "name": "6.nii.gz"
+          }
+        }
+      }
+    },
+    "7": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "7.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575766,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575820,
+            "checksum": "SHA256:902ac50be8c0139c224a65cf875eb11cdbf6c78384ff7aadeb1652806f204be1",
+            "name": "7.nii.gz"
+          }
+        }
+      }
+    },
+    "8": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "8.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575649,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575699,
+            "checksum": "SHA256:a16ba6606662b9ad1d49b1548ad85a3694848011172c19f936d2130a27e89028",
+            "name": "8.nii.gz"
+          }
+        }
+      }
+    },
+    "9": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649551418,
+          "name": "9.nii.gz",
+          "strategy": {
+            "random": {
+              "ts": 1649575712,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "background",
+                "idx": 1
+              },
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649575756,
+            "checksum": "SHA256:c395707a6f04365e323bf7cdffdb743021afda659159c8b16d4636b966136778",
+            "name": "9.nii.gz"
+          }
+        }
+      }
+    }
+  }
+}
