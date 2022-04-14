@@ -1,0 +1,1247 @@
+{
+  "name": "new-dataset",
+  "description": "New Dataset",
+  "images_dir": ".",
+  "labels_dir": "labels",
+  "objects": {
+    "1": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "client_id": "user-xyz",
+          "ts": 1649948883,
+          "name": "1.nii.gz"
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649948982,
+            "checksum": "SHA256:aee3d424afb456c4f84331ad41738dec87083613295e76912d35cb95127daa79",
+            "name": "1.nii.gz"
+          }
+        }
+      }
+    },
+    "101": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "101.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649949021,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649949114,
+            "checksum": "SHA256:69e24bec2e5a4319603d0a7a0901354fa512f6298946878581b1c2458bfb9c53",
+            "name": "101.nii.gz"
+          }
+        }
+      }
+    },
+    "103": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "103.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649949142,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649949839,
+            "checksum": "SHA256:7ab2caeae0a782c43066e2e3c1d98d3e24a2aaabebf9c10ffdea0b3055f263e6",
+            "name": "103.nii.gz"
+          }
+        }
+      }
+    },
+    "12": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "12.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649949890,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649949935,
+            "checksum": "SHA256:1c907477580f7ac6c886956c9c11b75c5fec9665aa8dfddcd972ae8dd0e45196",
+            "name": "12.nii.gz"
+          }
+        }
+      }
+    },
+    "14": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "14.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649949951,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649949991,
+            "checksum": "SHA256:524e369f7fade7932e474dcd6fb66691acb261974c801f5ea53e3347ffaadb65",
+            "name": "14.nii.gz"
+          }
+        }
+      }
+    },
+    "15": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "15.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649950008,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649950049,
+            "checksum": "SHA256:ebfa12e9b0852db530503087d99b044837ed9d75ad1564463a66ff1cf2c3d540",
+            "name": "15.nii.gz"
+          }
+        }
+      }
+    },
+    "16": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "16.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649950066,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649950104,
+            "checksum": "SHA256:8e915a3050715ce001d9bf1c23f5fff7805f376f5b55c63a2086666a7b562907",
+            "name": "16.nii.gz"
+          }
+        }
+      }
+    },
+    "2": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "2.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649950147,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649950200,
+            "checksum": "SHA256:077b7d3abc1cd6d003e69e4822b7860d81423c82c6569b819d956fee814069a9",
+            "name": "2.nii.gz"
+          }
+        }
+      }
+    },
+    "20": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "20.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649950218,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649950262,
+            "checksum": "SHA256:7cfe18a90dfe79adc0583bdcbca835c822f10937bf2556e12a5591d00619b47b",
+            "name": "20.nii.gz"
+          }
+        }
+      }
+    },
+    "22": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "22.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649950278,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649950317,
+            "checksum": "SHA256:7143e2e6888e7cef55173bae2e9fb44125a3030d7ba7ac263901a75b7742c0ba",
+            "name": "22.nii.gz"
+          }
+        }
+      }
+    },
+    "23": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "23.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649952710,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649952818,
+            "checksum": "SHA256:579804f2d11152bb93756a4b952b87bf6a8f8b0ef277a551950c3b9fe5cf4145",
+            "name": "23.nii.gz"
+          }
+        }
+      }
+    },
+    "24": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "24.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649952836,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649952895,
+            "checksum": "SHA256:819edf5612541da806ad854687b9fa751e470a431eb6482ceb6457a3837fe241",
+            "name": "24.nii.gz"
+          }
+        }
+      }
+    },
+    "25": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "25.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649952908,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649953077,
+            "checksum": "SHA256:fa7a630d6380dd951aa367aefa90bc343d2c0547f3d0ce273a0a0bc960ce2b32",
+            "name": "25.nii.gz"
+          }
+        }
+      }
+    },
+    "26": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "26.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649953102,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649953376,
+            "checksum": "SHA256:3bb9b0814669bec19a948d5ba336cefffde64cf5648433b2881cbab16368b740",
+            "name": "26.nii.gz"
+          }
+        }
+      }
+    },
+    "27": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "27.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649953418,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955314,
+            "checksum": "SHA256:5b8efd2b7eacbaa4e25eeeddb08bfa702eb97ec5d194cba19ab5b73562d87810",
+            "name": "27.nii.gz"
+          }
+        }
+      }
+    },
+    "30": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "30.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955356,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955497,
+            "checksum": "SHA256:1441a709d5258471895caaaa7cb8955f6582488cda70da7f5de37b9cae9f5f4e",
+            "name": "30.nii.gz"
+          }
+        }
+      }
+    },
+    "32": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "32.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955512,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955586,
+            "checksum": "SHA256:f7e703566c69789d91cce436ed9ca08d1be7474aefa6695d6d95c445b9ff46da",
+            "name": "32.nii.gz"
+          }
+        }
+      }
+    },
+    "34": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "34.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955598,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955679,
+            "checksum": "SHA256:5755030b971e4f03d8b19b20e59b8ffbe55798fbb4d610c32166c11f135c09c8",
+            "name": "34.nii.gz"
+          }
+        }
+      }
+    },
+    "35": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "35.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955692,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955737,
+            "checksum": "SHA256:46e9103c905438b6bbd569548622bfe4e010e9e831548523e5fe55ed2bcbf4d0",
+            "name": "35.nii.gz"
+          }
+        }
+      }
+    },
+    "37": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "37.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955745,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955782,
+            "checksum": "SHA256:ef509135c8c06de94e78afc31634bced7b0250f798d719ec8c43c5afcef4a2dc",
+            "name": "37.nii.gz"
+          }
+        }
+      }
+    },
+    "38": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "38.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955792,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955832,
+            "checksum": "SHA256:f93044f844f6948a3b9bcb97239b0654780a15a192ee40eeae7e8ea252189dd0",
+            "name": "38.nii.gz"
+          }
+        }
+      }
+    },
+    "4": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "4.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955839,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955902,
+            "checksum": "SHA256:640987a186a13e9e2cca58b47322da88ca3af742b773f26e793e1a92c6def6ab",
+            "name": "4.nii.gz"
+          }
+        }
+      }
+    },
+    "42": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "42.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955911,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955953,
+            "checksum": "SHA256:4719bafb19b735713ecb7015dba2481fdafc48af263257c9c6fa850b3d51a6cd",
+            "name": "42.nii.gz"
+          }
+        }
+      }
+    },
+    "43": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "43.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649955960,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649955995,
+            "checksum": "SHA256:53a7c10db033ae9247ac8762d1954c5492670da9c62fe62e4caa196ba021fae3",
+            "name": "43.nii.gz"
+          }
+        }
+      }
+    },
+    "44": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "44.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649956002,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649956031,
+            "checksum": "SHA256:b47a6f67d2cc20adbb0483f268c1672fa66f8d4a529fc6ccdbb83fa4ea9fca86",
+            "name": "44.nii.gz"
+          }
+        }
+      }
+    },
+    "45": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "45.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649956038,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649956075,
+            "checksum": "SHA256:d4370c1d6c52d90be20ceb758df73488d041d98f11a69ea24422b4ea03b51bc4",
+            "name": "45.nii.gz"
+          }
+        }
+      }
+    },
+    "46": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "46.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649956082,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649956114,
+            "checksum": "SHA256:fc0ff162325eb14c7f26f2df5291187669e7b9199e9c803e8132322dd614fd40",
+            "name": "46.nii.gz"
+          }
+        }
+      }
+    },
+    "47": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "47.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649956121,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649956173,
+            "checksum": "SHA256:fa3d432e4402a6777e2791100c01a27229feb14f18f937c136ca755665b13088",
+            "name": "47.nii.gz"
+          }
+        }
+      }
+    },
+    "48": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "48.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649959976,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {
+        "final": {
+          "ext": ".nii.gz",
+          "info": {
+            "label_info": [
+              {
+                "name": "spleen",
+                "idx": 2
+              }
+            ],
+            "client_id": "user-xyz",
+            "ts": 1649960152,
+            "checksum": "SHA256:d7b03d4e1e404d1d7af2f26b4768b0b970c666c8f1c9a2e66d02bbb45773ddd0",
+            "name": "48.nii.gz"
+          }
+        }
+      }
+    },
+    "5": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "5.nii.gz",
+          "strategy": {
+            "first": {
+              "ts": 1649960172,
+              "client_id": "user-xyz"
+            }
+          }
+        }
+      },
+      "labels": {}
+    },
+    "51": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "51.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "52": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "52.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "53": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "53.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "54": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "54.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "55": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "55.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "57": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "57.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "58": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "58.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "60": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "60.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "66": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "66.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "67": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "67.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "7": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "7.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "70": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "70.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "71": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "71.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "72": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "72.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "73": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "73.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "74": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "74.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "75": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "75.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "77": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "77.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "78": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "78.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "82": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "82.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "83": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "83.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "84": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "84.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "89": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "89.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "9": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "9.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "90": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "90.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "95": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "95.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "96": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "96.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "97": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "97.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "98": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "98.nii.gz"
+        }
+      },
+      "labels": {}
+    },
+    "99": {
+      "image": {
+        "ext": ".nii.gz",
+        "info": {
+          "ts": 1649948725,
+          "name": "99.nii.gz"
+        }
+      },
+      "labels": {}
+    }
+  }
+}
