@@ -19,5 +19,5 @@ Private by Author : Bashar Shami
 ![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/2222.PNG)
 
 
-# Acknowledgement:
-Warm thanks to Mona Shouman , MTI University
+
+
