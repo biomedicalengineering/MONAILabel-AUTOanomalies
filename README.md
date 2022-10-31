@@ -16,7 +16,7 @@ Private by Author : Bashar Shami
 ![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/tmr6.PNG)
 ![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/tmr3.PNG)
 ![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/tmr1.PNG)
-![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/2222.PNG)
+![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/tmr5.PNG)
 
 
 
