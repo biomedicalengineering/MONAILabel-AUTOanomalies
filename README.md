@@ -1,7 +1,7 @@
 # MONAILabel-Pelvic-bone-tumour-3d-segmentation
 
-Codes libraries and packages of Transforms and 3dUNET deep learning are by MONAI Label (https://github.com/basharbme/MONAILabel)
-Training where done actively with MONAI Label Uvicom server , and model inferered on pre trained pytorch model by Deepedit Model tool
+Codes libraries and packages of Transforms and 3dUNET deep learning are by MONAILabel (https://github.com/basharbme/MONAILabel)
+Training where done with MONAILabel Uvicom server , on pre trained pytorch model by Deepedit and inferred by Auto Segmentation
 
 
 # Dataset and Model:
