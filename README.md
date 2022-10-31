@@ -9,7 +9,7 @@ Training where done with MONAILabel Uvicom server on pre trained pytorch dynunet
 Private by Author : Bashar Shami 
 
 
-
+# Results
 
 
 ![](https://github.com/basharbme/MONAILabel-Pelvic-bone-tumour-3d-segmentation/blob/main/tmr7.PNG)
