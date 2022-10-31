@@ -1,7 +1,7 @@
 # MONAILabel-bone-tumour-3d-segmentation
 
 Codes libraries and packages of Transforms are by MONAILabel (https://github.com/basharbme/MONAILabel)
-Training where done with MONAILabel Uvicom server on pretrained deepedit dynunet model and inferred by Auto Segmentation.
+Training is done with MONAILabel Uvicom server on pretrained deepedit dynunet model and inferred by Auto Segmentation.
 
 
 # Dataset and Model:
